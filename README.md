@@ -1,11 +1,11 @@
-Task 1 of the Internet of Things path:
+# Task 1 of the Internet of Things path:
 
 
 
 
 
 
-What is ESP32?
+# What is ESP32?
 
 ESP32 is a series of low-cost, low-power system on a chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth. The ESP32 series employs either a Tensilica Xtensa LX6 microprocessor in both dual-core and single-core variations, Xtensa LX7 dual-core microprocessor or a single-core RISC-V microprocessor and includes built-in antenna switches, RF balun, power amplifier, low-noise receive amplifier, filters, and power-management modules. ESP32 is created and developed by Espressif Systems, a Shanghai-based Chinese company, and is manufactured by TSMC using their 40 nm process.[2] It is a successor to the ESP8266 Microcontroller.
 
@@ -14,7 +14,7 @@ ESP32 is a series of low-cost, low-power system on a chip microcontrollers with 
 
 
 
-ESP32 Applications:
+# ESP32 Applications:
 
 
 The ESP32 modules are commonly found in the following IoT devices:
@@ -31,7 +31,7 @@ Smart energy devices, including HVAC and thermostats
 Smart security devices, including surveillance cameras and smart locks
 
 
-How the code works:
+# How the code works:
 
 this project is has four leds that turn on and off (forward , backward , left , right )
 
